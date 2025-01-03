@@ -16,5 +16,13 @@ A project aimed to support the migration of Splunk data into a supported endpoin
 5. Username and Password set in Step 1. These will not be printed to terminal
 
 ## How to deploy migration flow
-1.
+1. Upload "Get_Splunk_Data.json"
+***
 ![Alt text](images/add_process_group.png) 
+***
+![Alt text](images/browse_files.png) 
+***
+![Alt text](images/upload_file.png) 
+***
+![Alt text](images/added_process_group.png)
+*** 

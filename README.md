@@ -16,4 +16,5 @@ A project aimed to support the migration of Splunk data into a supported endpoin
 5. Username and Password set in Step 1. These will not be printed to terminal
 
 ## How to deploy migration flow
-1. 
+1.
+![Alt text](images/add_process_group.png) 
